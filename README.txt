@@ -1,4 +1,3 @@
-# Qsnap
 This repository includes matlab code, scripts, and datasets necessary for reproducing results presented in our AIStats submission.
 The simulation code used to create out datasets is also provided.
 
